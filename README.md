@@ -111,7 +111,7 @@ location: object(Location)
 
 ![Alt-текст](https://i.imgur.com/KjRbUVN.png "МK")
 
-Также майнд-карту можно [скачать]()
+Также майнд-карту можно [скачать](https://github.com/Lipikk/DummyAPI/blob/main/DummyAPI.png)
  
 
 
