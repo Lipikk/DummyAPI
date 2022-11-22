@@ -186,8 +186,11 @@ owner: object(User Preview)
 
 ### Коллекции Postman
 
+![Alt-текст](https://i.imgur.com/KjRbUVN.png "DummyAPI")
 
 ### Автотесты
+
+Коллекция с автотестами [скачать](https://github.com/Lipikk/DummyAPI/blob/main/DummyAPI.png)
 
 
 
