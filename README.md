@@ -185,7 +185,7 @@ owner: object(User Preview)
 
 ### Баг-репорты
 
-![Alt-текст](https://murlena.atlassian.net/jira/software/projects/DUM/boards/12 "DummyAPI
+![Alt-текст](https://murlena.atlassian.net/jira/software/projects/DUM/boards/12 "DummyAPI")
 
 ### Коллекции Postman
 
