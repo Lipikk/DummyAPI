@@ -17,6 +17,7 @@
  4. [Баг-репорты](#Баг-репорты)
  5. [Коллекции Postman](#Коллекции-Postman)
  6. [Автотесты](#Автотесты)
+ 7. [Другие сервисы](#Другие-сервисы)
     
 
 ## Описание проекта 
@@ -180,13 +181,15 @@ owner: object(User Preview)
 
 ### Тест-кейсы
 
+В данном случае в качестве 
+
 
 ### Баг-репорты
 
 
 ### Коллекции Postman
 
-![Alt-текст](https://i.imgur.com/KjRbUVN.png "DummyAPI")
+![Alt-текст](https://github.com/Lipikk/DummyAPI/blob/main/DummyAPI.postman_collection.json "DummyAPI")
 
 ### Автотесты
 
