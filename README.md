@@ -198,7 +198,7 @@ owner: object(User Preview)
 ### Другие сервисы
 
 [КвестСТ](https://github.com/Lipikk/DummyAPI/blob/main/tester's%20quest.postman_collection.json "Quest")
-[GoREST](https://github.com/Lipikk/DummyAPI/blob/main/DummyAPI.postman_collection.json "GoREST")
+[GoREST](https://github.com/Lipikk/DummyAPI/blob/main/Comments.postman_collection.json "GoREST")
 
 
 
