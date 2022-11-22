@@ -190,7 +190,7 @@ owner: object(User Preview)
 
 ### Автотесты
 
-Коллекция с автотестами [скачать](https://github.com/Lipikk/DummyAPI/blob/main/DummyAPI.png)
+Коллекция с автотестами к DummyAPI [скачать](https://github.com/Lipikk/DummyAPI/blob/main/Automation.postman_collection.json)
 
 
 
