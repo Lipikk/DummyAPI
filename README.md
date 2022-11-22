@@ -185,11 +185,11 @@ owner: object(User Preview)
 
 ### Баг-репорты
 
-![Alt-текст](https://murlena.atlassian.net/jira/software/projects/DUM/boards/12 "DummyAPI")
+[Баг-репорты](https://murlena.atlassian.net/jira/software/projects/DUM/boards/12 "DummyAPI")
 
 ### Коллекции Postman
 
-![Alt-текст](https://github.com/Lipikk/DummyAPI/blob/main/DummyAPI.postman_collection.json "DummyAPI")
+[Коллекция Postman]([http://sabaka.net](https://github.com/Lipikk/DummyAPI/blob/main/DummyAPI.postman_collection.json "DummyAPI")
 
 ### Автотесты
 
