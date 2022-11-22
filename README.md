@@ -189,13 +189,17 @@ owner: object(User Preview)
 
 ### Коллекции Postman
 
-[Коллекция Postman]([http://sabaka.net](https://github.com/Lipikk/DummyAPI/blob/main/DummyAPI.postman_collection.json "DummyAPI")
+[Коллекция Postman](https://github.com/Lipikk/DummyAPI/blob/main/DummyAPI.postman_collection.json "DummyAPI")
 
 ### Автотесты
 
 Коллекция с автотестами к DummyAPI [скачать](https://github.com/Lipikk/DummyAPI/blob/main/Automation.postman_collection.json)
 
 ### Другие сервисы
+
+[Коллекция Postman](https://github.com/Lipikk/DummyAPI/blob/main/DummyAPI.postman_collection.json "DummyAPI")
+[Коллекция Postman](https://github.com/Lipikk/DummyAPI/blob/main/DummyAPI.postman_collection.json "DummyAPI")
+
 
 
 
