@@ -197,7 +197,7 @@ owner: object(User Preview)
 
 ### Другие сервисы
 
-[Коллекция Postman](https://github.com/Lipikk/DummyAPI/blob/main/DummyAPI.postman_collection.json "DummyAPI")
+[КвестСТ](https://github.com/Lipikk/DummyAPI/blob/main/tester's%20quest.postman_collection.json "Quest")
 [Коллекция Postman](https://github.com/Lipikk/DummyAPI/blob/main/DummyAPI.postman_collection.json "DummyAPI")
 
 
