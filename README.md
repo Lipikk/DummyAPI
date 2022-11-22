@@ -181,11 +181,11 @@ owner: object(User Preview)
 
 ### Тест-кейсы
 
-В данном случае в качестве 
-
+В качестве списка проверок использовалась МК (майнд-карта)
 
 ### Баг-репорты
 
+![Alt-текст](https://murlena.atlassian.net/jira/software/projects/DUM/boards/12 "DummyAPI
 
 ### Коллекции Postman
 
@@ -194,6 +194,10 @@ owner: object(User Preview)
 ### Автотесты
 
 Коллекция с автотестами к DummyAPI [скачать](https://github.com/Lipikk/DummyAPI/blob/main/Automation.postman_collection.json)
+
+### Другие сервисы
+
+
 
 
 
